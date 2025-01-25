@@ -18,3 +18,6 @@ void showSum(){
     int s = sum(5, 6);
     print("The sum is "+s);
 }
+void showMsg(){
+    print("Hello World");
+}
